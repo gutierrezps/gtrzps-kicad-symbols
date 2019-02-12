@@ -1,5 +1,5 @@
 # gtrzps-kicad-symbols
-Personal KiCAD symbol libraries
+Personal KiCAD symbol libraries. Inspired by [Tyler Crumpton](https://github.com/tylercrumpton/CrumpSchemes).
 
 ## Symbol List
 * `LLC_4CH` - 4-channel Logic Level Converter module
