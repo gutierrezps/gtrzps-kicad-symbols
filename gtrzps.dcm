@@ -17,6 +17,11 @@ K NPN photointerrupter
 F http://pdf.datasheetcatalog.com/datasheet/rohm/rpi-574.pdf
 $ENDCMP
 #
+$CMP STK621-033N
+D 3-phase Inverter Motor Driver
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/STK621-033N-E.pdf
+$ENDCMP
+#
 $CMP Stepper_Motor_bipolar_8pin
 D 6-wire unipolar stepper motor
 K unipolar stepper motor
