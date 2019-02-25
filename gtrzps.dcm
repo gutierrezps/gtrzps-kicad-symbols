@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DC-DC_Converter
+D Adjustable DC-DC switching voltage converter module
+$ENDCMP
+#
 $CMP LLC_4CH
 D 4-Channel Logic Level Converter
 F https://www.sparkfun.com/products/12009
