@@ -15,6 +15,11 @@ K i2c, rfid, rc522
 F https://www.nxp.com/docs/en/data-sheet/MFRC522.pdf
 $ENDCMP
 #
+$CMP RDM6300
+D 125kHz UART RFID Reader Module
+K uart, rfid
+$ENDCMP
+#
 $CMP RPI-574
 D Photointerrupter, encased type
 K NPN photointerrupter
