@@ -5,6 +5,7 @@ Personal KiCAD symbol libraries. Inspired by [Tyler Crumpton](https://github.com
 
 ## Symbol List
 
+* `Arduino Pro Mini` - based on Arduino Nano from KiCAD default library
 * `DC-DC_Converter` - Adjustable DC-DC switching voltage converter (alises: `LM2596_Module`, `MP1584_Module`)
 * `LLC_4CH` - 4-channel Logic Level Converter module
 * `RC522_I2C` - 13.56MHz RFID reader module (I2C version)

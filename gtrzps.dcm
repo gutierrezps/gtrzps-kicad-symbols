@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Arduino_Pro_Mini
+D Arduino Pro Mini
+K Arduino pro mini microcontroller module
+$ENDCMP
+#
 $CMP DC-DC_Converter
 D Adjustable DC-DC switching voltage converter module
 $ENDCMP
