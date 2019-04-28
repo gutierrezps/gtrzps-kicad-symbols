@@ -9,6 +9,12 @@ $CMP DC-DC_Converter
 D Adjustable DC-DC switching voltage converter module
 $ENDCMP
 #
+$CMP JQ6500-16P_Module
+D MP3 Player Module
+K mp3 player module audio
+F https://sparks.gogo.co.nz/jq6500/index.html
+$ENDCMP
+#
 $CMP LLC_4CH
 D 4-Channel Logic Level Converter
 F https://www.sparkfun.com/products/12009
