@@ -9,6 +9,11 @@ $CMP DC-DC_Converter
 D Adjustable DC-DC switching voltage converter module
 $ENDCMP
 #
+$CMP DS3231_For_Pi
+D DS3231 Module for Raspberry Pi - I2C Realtime Clock
+K RTC Realtime Time Clock I2C Module
+$ENDCMP
+#
 $CMP JQ6500-16P_Module
 D MP3 Player Module
 K mp3 player module audio

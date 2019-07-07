@@ -7,6 +7,7 @@ Personal KiCAD symbol libraries. Inspired by [Tyler Crumpton](https://github.com
 
 * `Arduino Pro Mini` - based on Arduino Nano from KiCAD default library
 * `DC-DC_Converter` - Adjustable DC-DC switching voltage converter (alises: `LM2596_Module`, `MP1584_Module`)
+* `DS3231_For_Pi` - High accuracy Realtime Clock module with small footprint, designed for Raspberry Pi
 * `JQ6500-16P_Module` - MP3 Player Module (16-pin version)
 * `LLC_4CH` - 4-channel Logic Level Converter module
 * `RC522_I2C` - 13.56MHz RFID reader module (I2C version)
