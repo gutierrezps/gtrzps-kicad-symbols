@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2SK3918
+D 48A Id, 25V Vds, N-Channel Power MOSFET, TO-252
+K N-Channel Power MOSFET
+$ENDCMP
+#
+$CMP 2SK3919
+D 64A Id, 25V Vds, N-Channel Power MOSFET, TO-252
+K N-Channel Power MOSFET
+$ENDCMP
+#
 $CMP Arduino_Pro_Mini
 D Arduino Pro Mini
 K Arduino pro mini microcontroller module
@@ -23,6 +33,21 @@ $ENDCMP
 $CMP LLC_4CH
 D 4-Channel Logic Level Converter
 F https://www.sparkfun.com/products/12009
+$ENDCMP
+#
+$CMP P0903BDG
+D 50A Id, 25V Vds, N-Channel Power MOSFET, TO-252
+K N-Channel Power MOSFET
+$ENDCMP
+#
+$CMP P45N02
+D 45A Id, 25V Vds, N-Channel Power MOSFET, TO-252
+K N-Channel Power MOSFET
+$ENDCMP
+#
+$CMP P75N02
+D 75A Id, 25V Vds, N-Channel Power MOSFET, TO-252
+K N-Channel Power MOSFET
 $ENDCMP
 #
 $CMP RC522_I2C
